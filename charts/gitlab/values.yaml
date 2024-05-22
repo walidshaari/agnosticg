@@ -6,15 +6,15 @@ gitlab:
   smtp:
     enabled: "false"
     domain: "example.com"
-    host: "smtp.gitlab-gitlab.apps.cluster-br9rv.br9rv.sandbox1083.opentlc.com"
+    host: "smtp.gitlab-gitlab.apps.rosa.dubai01.2ew4.p3.openshiftapps.com"
     port: "587"
     user: "gitlab"
     password: "gitlab"
   ssh:
-    host: "ssh.gitlab-gitlab.apps.cluster-br9rv.br9rv.sandbox1083.opentlc.com"
+    host: "ssh.gitlab-gitlab.apps.rosa.dubai01.2ew4.p3.openshiftapps.com"
     port: "22"
   rootPassword: openshift
-  host: gitlab-gitlab.apps.cluster-br9rv.br9rv.sandbox1083.opentlc.com
+  host: gitlab-gitlab.apps.rosa.dubai01.2ew4.p3.openshiftapps.com
   https: "true"
   rootEmail: "treddy@redhat.com"
   keyBase:
